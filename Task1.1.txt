@@ -1,0 +1,10 @@
+Functional requirement for the Project:
+
+1) The system should able to create contact with first name , last name , company , job title .
+2)The phone number and email can be can be zero or more for each contact. 
+3) Each of the email should have a level(Home , mobile , work ).
+   The user can create a contact . 
+4) The user can can search the contact.
+5) Delete the contact .
+6) Update the contact .
+7) The system also allows to merge duplicate contacts . 
